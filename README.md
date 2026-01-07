@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @Ordnaryblock
-- 👀 I’m interested in games, youtube, footboll.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: 
-
-<!---
-Ordnaryblock/Ordnaryblock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in games, youtube, footboll
+- 🌱 I’m currently learning everything basically
+- 📫 How to reach me Join my Discord server
+- ⚡ I'm a YouTuber, check out my channel @Ordnaryblock
